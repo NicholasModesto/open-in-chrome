@@ -12,4 +12,4 @@ Note: This workflow leverages parts of [TJ Luoma's Applescript](http://www.tuaw.
 3. Open "System Preference > Keyboard > Keyboard Shortcuts > Services > General" (screen grab below).
 4. Assign the "Open in Chrome" service and keyboard shortcut. Mine is set to " cmd + ` "
 
-![System Preferences Pathing](systemPrefs.png)
+![System Preferences Pathing](https://github.com/NicholasModesto/Open-in-Chrome/blob/master/systemPrefs.png)
